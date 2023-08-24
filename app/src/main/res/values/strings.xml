@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="enter_player_names">Enter player names:</string>
+    <string name="player1_name">(X) Player 1:</string>
+    <string name="player2_name">(O) Player 2:</string>
+    <string name="start_game">Start game</string>
+    <string name="score">Score</string>
+    <string name="player1_score">Player 1:</string>
+    <string name="player2_score">Player 2:</string>
+    <string name="start_score">0</string>
+    <string name="start_round">Round 1</string>
+    <string name="end_game">End game</string>
+</resources>
