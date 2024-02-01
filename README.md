@@ -1,4 +1,4 @@
-# Android-Tic-Tac-Toe
+# Android Tic-Tac-Toe
 
 [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) is a game for two players. They take turns marking the spaces in a 3 x 3 grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical or diagonal row is the winner.
   
